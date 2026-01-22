@@ -3,7 +3,7 @@
     {
       "version": "4.0.0",
       "description": "Midea, Philco,Hisense e Samsung.",
-      "firmware_url": "https://github.com/rladmc/AppConserlar/releases/download/Jsons/testador_v4.bin",
+      "firmware_url": "https://raw.githubusercontent.com/rladmc/AppConserlar/main/testador_v4.bin",
       "authorized_macs": [
         "3C:71:BF:61:D0:9E",
         "3C:71:BF:61:D0:9C"
