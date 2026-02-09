@@ -1,6 +1,7 @@
 {
   "versao_n": 1,
   "versao_m": 1,
-  "url": "https://seu-servidor.com/firmware_v81.bin",
-  "tamanho": 1452000
+  "tamanho": 1354000,
+  "url_bin": "https://raw.githubusercontent.com/rladmc/AppConserlar/main/ota/firmware_potencia_v81.bin",
+  "notas": "Correção no PWM e leitura do display"
 }
