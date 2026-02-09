@@ -5,7 +5,7 @@
       "description": "Midea, Philco,Hisense e Samsung.",
       "firmware_url": "https://raw.githubusercontent.com/rladmc/AppConserlar/main/testador_v4.bin",
       "authorized_macs": [
-        "CC:7B:5C:25:1B:BC",
+        "CC:7B:5C:25:29:0A",
         "3C:71:BF:61:D0:9C"
       ]
     },
