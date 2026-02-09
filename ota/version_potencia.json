@@ -1,7 +1,32 @@
 {
-  "versao_n": 1,
-  "versao_m": 1,
-  "tamanho": 1354000,
-  "url_bin": "https://raw.githubusercontent.com/rladmc/AppConserlar/main/ota/firmware_potencia_v81.bin",
-  "notas": "Correção no PWM e leitura do display"
+  "version_groups": [
+    {
+      "version": "4.0.0",
+      "description": "Midea, Philco,Hisense e Samsung.",
+      "firmware_url": "https://raw.githubusercontent.com/rladmc/AppConserlar/main/testador_v4.bin",
+      "authorized_macs": [
+        "3C:71:BF:61:D0:9E",
+        "3C:71:BF:61:D0:9C"
+      ]
+    },
+    {
+      "version": "3.0.0",
+      "description": "Adicionado o Testador e Simulador Philco",
+      "firmware_url": "https://dl.dropboxusercontent.com/scl/fi/gatfz6bathf6bmqcowqv6/testador_v3.bin?rlkey=jdx2dknvnur64wxjoa3qyw740",
+      "authorized_macs": [
+        "CC:7B:5C:25:1B:BC",
+        "CC:7B:5C:25:1B:BE",
+        "3C:71:BF:61:D0:9E",
+        "3C:71:BF:61:D0:9C"
+      ]
+    },
+    {
+      "version": "1.5.0",
+      "description": "Motores Midea.",
+      "firmware_url": "URL_DO_BIN_V1.5.0",
+      "authorized_macs": [
+        "00:00:00:00:00:01"
+      ]
+    }
+  ]
 }
