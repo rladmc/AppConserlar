@@ -1,7 +1,7 @@
 {
   "version_groups": [
     {
-      "version": "4.0.0",
+      "version": "4.0",
       "description": "Midea, Philco,Hisense e Samsung.",
       "firmware_url": "https://raw.githubusercontent.com/rladmc/AppConserlar/main/Potencia_v1.1.bin",
       "authorized_macs": [
@@ -10,7 +10,7 @@
       ]
     },
     {
-      "version": "3.0.0",
+      "version": "3.0",
       "description": "Adicionado o Testador e Simulador Philco",
       "firmware_url": "https://dl.dropboxusercontent.com/scl/fi/gatfz6bathf6bmqcowqv6/testador_v3.bin?rlkey=jdx2dknvnur64wxjoa3qyw740",
       "authorized_macs": [
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "version": "1.5.0",
+      "version": "1.5",
       "description": "Motores Midea.",
       "firmware_url": "URL_DO_BIN_V1.5.0",
       "authorized_macs": [
