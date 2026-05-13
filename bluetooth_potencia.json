@@ -2,7 +2,7 @@
   "version": "POTÊNCIA",
   "authorized_macs": [
     "CC:7B:5C:25:29:7A",
-    "MAC_DA_PLACA_NOVA"
+    "CC:7B:5C:24:F6:09"
   ],
   "blacklisted_macs": [
     "MAC_DO_CLIENTE_QUE_NAO_PAGOU",
