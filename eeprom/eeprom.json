@@ -1,0 +1,35 @@
+{
+  "versao_lista": 1,
+  "modelos": [
+    {
+      "id": "WD13T504",
+      "nome": "Samsung WD13T",
+      "imagem_url": "https://github.com/rladmc/AppConserlar/raw/refs/heads/main/eeprom/wd13t504.bin"
+    },
+    {
+      "id": "WD11M4473",
+      "nome": "Samsung WD11M (AddWash)",
+      "imagem_url": "https://github.com/rladmc/AppConserlar/raw/refs/heads/main/eeprom/wd11m4473.bin"
+    },
+    {
+      "id": "WF106",
+      "nome": "Samsung WF106",
+      "imagem_url": "https://github.com/rladmc/AppConserlar/raw/refs/heads/main/eeprom/Wf106.bin"
+    },
+    {
+      "id": "WD10J6410",
+      "nome": "Samsung WD10J",
+      "imagem_url": "https://github.com/rladmc/AppConserlar/raw/refs/heads/main/eeprom/wd11j6410.bin"
+    },
+    {
+      "id": "CV5011TS4",
+      "nome": "LG CV5011TS4",
+      "imagem_url": "https://github.com/rladmc/AppConserlar/raw/refs/heads/main/eeprom/CV5011TS4.bin"
+    },
+    {
+      "id": "WD11A4453",
+      "nome": "Samsung WD11A",
+      "imagem_url": "https://github.com/rladmc/AppConserlar/raw/refs/heads/main/eeprom/wd11m4473.bin"
+    }
+  ]
+}
